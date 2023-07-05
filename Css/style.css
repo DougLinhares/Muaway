@@ -1,0 +1,70 @@
+body{
+  margin: 0px;
+  font-family: tahoma;
+  text-align: center;
+}
+
+h1{
+  margin: 0 10px;
+  font-size: 35px;
+  font-family: FreeMono, monospace;
+}
+
+h2{
+  margin: 2 10px;
+  font-weight: normal;
+}
+
+h3{
+  margin: 0px;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+p{
+  font-size: 18px;
+  margin: 0 10px;
+}
+
+.secao-logo{
+  background-color: rgb(9, 9, 9);
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+.secao-logo img{
+  width: 100px;
+}
+
+h2, h1{
+  color: #fff;
+}
+
+.secao-perfil{
+  width: 900px;
+  margin: 25px auto 0;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.secao-perfil img{
+  width: 120px;
+}
+
+.colagem{
+  background-color: #ccd7db;
+}
+
+.rodape{
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.vermelho{
+  color: red;
+}
+
+.azul{
+  color: blue;
+}
